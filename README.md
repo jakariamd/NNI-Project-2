@@ -1,5 +1,5 @@
 # NNI-Project
-- [DoReFaQuantizer Quantizer Final.ipynb](https://github.com/jakariamd/NNI-Project-2/blob/main/DoReFaQuantizer%20%20Quantizer%20Final.ipynb) contains all the code for quantizing a pretrained model using  **DoReFaQuantizer Quantizer **
+- [DoReFaQuantizer Quantizer Final.ipynb](https://github.com/jakariamd/NNI-Project-2/blob/main/DoReFaQuantizer%20%20Quantizer%20Final.ipynb) contains all the code for quantizing a pretrained model using  **DoReFaQuantizer Quantizer**
 
 - [Observer Quantizer Final.ipynb](https://github.com/jakariamd/NNI-Project-2/blob/main/Observer%20Quantizer%20Final.ipynb) contains all the code for quantizing a pretrained model using  **Observer Quantizer **
 
